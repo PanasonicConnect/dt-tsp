@@ -1,0 +1,13 @@
+# run: conda env create --file environment.yml
+name: dt-tsp
+channels:
+- pytorch
+dependencies:
+- python==3.11.9
+- tqdm
+- pytorch==2.5.1
+- pandas==2.2.1
+- pip
+- pip:
+  - rl4co==0.5.1
+  - schedulefree==1.4.1
