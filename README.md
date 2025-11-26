@@ -44,3 +44,8 @@ python eval.py \
 ## Acknowledgement
 
 This implementation is based on [Elastic-DT](https://github.com/kristery/Elastic-DT) and [learning-paradigms-for-tsp](https://github.com/chaitjo/learning-paradigms-for-tsp).
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+For details on the licenses of third-party dependencies used in this project, please refer to the NOTICE.md file.
