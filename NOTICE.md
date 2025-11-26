@@ -239,6 +239,8 @@ THE SOFTWARE.
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+   Copyright (c) 2024 Meta Research
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
